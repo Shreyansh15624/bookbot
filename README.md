@@ -8,7 +8,7 @@
 
 The primary goal of this project was to learn and practice core programming concepts such as:
 * File I/O (reading and processing text files).
-* Data manipulation (counting words, characters, and analyzing frequency).
+* Data analysis (counting words, characters, and analyzing frequency).
 * Functional programming and modular design (as seen in `main.py` and `stats.py`).
 
 **"It takes a text file as input, calculates the total word count, and generates a report detailing the frequency of every letter of the alphabet."**
